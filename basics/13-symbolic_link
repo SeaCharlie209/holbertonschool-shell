@@ -1,0 +1,3 @@
+#!/bin/bash
+# Crea un enlace simbolico (soft link) a /bin/ls
+ln -s /bin/ls __ls__

@@ -1,0 +1,3 @@
+#!/bin/bash
+# Lista todo (incluyendo ocultos) en el actual (.), el padre (..) y /boot
+ls -la . .. /boot
