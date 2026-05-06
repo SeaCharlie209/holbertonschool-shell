@@ -1,3 +1,0 @@
-#!/bin/bash
-# Mueve los archivos que empiezan con mayuscula al directorio especificado
-mv [[:upper:]]* /tmp/u
