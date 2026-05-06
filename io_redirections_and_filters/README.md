@@ -3,8 +3,8 @@
 Este proyecto enseña a manejar la entrada y salida estándar en Linux, redireccionar datos hacia archivos y utilizar filtros y tuberías (pipes) para procesar texto.
 
 ## Repositorio
-* **GitHub repository:** `holbertonschool-shell`
-* **Directory:** `io_redirections_and_filters`
+* **repositorio de github:** `holbertonschool-shell`
+* **Directorio:** `io_redirections_and_filters`
 
 ## Tasks List
 
