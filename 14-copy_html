@@ -1,3 +1,0 @@
-#!/bin/bash
-# Copia archivos .html al directorio padre solo si son mas nuevos o no existen (-u)
-cp -u *.html ..
