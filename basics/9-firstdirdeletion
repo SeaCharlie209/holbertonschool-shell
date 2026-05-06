@@ -1,0 +1,3 @@
+#!/bin/bash
+# Elimina el directorio my_first_directory (y su contenido) ubicado en /tmp/
+rm -r /tmp/my_first_directory
