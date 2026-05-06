@@ -3,7 +3,7 @@
 Este proyecto es una introducción a los comandos básicos de la terminal de Linux y la navegación de directorios.
 
 ## Repositorio
-* **Repostiorio de github:** `holbertonschool-shell`
+* **Repositorio de github:** `holbertonschool-shell`
 * **Directorio:** `basics`
 
 ## Tasks List
