@@ -3,8 +3,8 @@
 Este proyecto se enfoca en el uso de variables de entorno y locales, expansiones aritméticas, conversiones de base y configuración del entorno en la shell (Bash).
 
 ## Repositorio
-* **GitHub repository:** `holbertonschool-shell`
-* **Directory:** `init_files_variables_and_expansions`
+* **Repositorio de github:** `holbertonschool-shell`
+* **Directorio:** `init_files_variables_and_expansions`
 
 ## Tasks List
 
