@@ -1,3 +1,0 @@
-#!/bin/bash
-# Muestra el tipo de archivo de iamafile
-file /tmp/iamafile
