@@ -3,8 +3,8 @@
 Este proyecto es una introducción a los comandos básicos de la terminal de Linux y la navegación de directorios.
 
 ## Repositorio
-* **GitHub repository:** `holbertonschool-shell`
-* **Directory:** `basics`
+* **Repostiorio de github:** `holbertonschool-shell`
+* **Directorio:** `basics`
 
 ## Tasks List
 
@@ -30,5 +30,4 @@ A continuación se detalla la lista de tareas de este proyecto:
 * **16. Clean Emacs**
 * **17. Tree**
 
----
-*Nota: Los scripts de cada tarea deben ser ejecutables y pasar las revisiones.*
+
