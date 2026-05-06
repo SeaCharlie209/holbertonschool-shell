@@ -1,0 +1,3 @@
+#!/bin/bash
+# Cambia el directorio de trabajo al home del usuario
+cd

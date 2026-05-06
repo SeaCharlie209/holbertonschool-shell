@@ -1,0 +1,3 @@
+#!/bin/bash
+# Elimina (remueve) el archivo 'betty' que esta dentro de '/tmp/my_first_directory/'
+rm /tmp/my_first_directory/betty

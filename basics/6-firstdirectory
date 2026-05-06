@@ -1,0 +1,3 @@
+#!/bin/bash
+# Crea un directorio nuevo llamado 'my_first_directory' dentro de la ruta '/tmp/'
+mkdir /tmp/my_first_directory

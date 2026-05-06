@@ -1,0 +1,3 @@
+#!/bin/bash
+# Imprime la ruta absoluta del directorio de trabajo actual
+pwd
