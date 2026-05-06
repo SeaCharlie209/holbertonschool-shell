@@ -3,8 +3,8 @@
 Este proyecto cubre la gestión de permisos, usuarios y grupos en sistemas Linux.
 
 ## Repositorio
-* **GitHub repository:** `holbertonschool-shell`
-* **Directory:** `permissions`
+* **repositorio de github:** `holbertonschool-shell`
+* **directorio:** `permissions`
 
 ## Tasks List
 
@@ -28,5 +28,4 @@ A continuación se detalla la lista de tareas de este proyecto:
 * **15. Symbolic links:** Cambia el dueño a `vincent` y grupo a `staff` del enlace simbólico `_hello`.
 * **16. If only:** Cambia el propietario de `hello` a `vincent` solo si el dueño actual es `guillaume`.
 
----
-*Nota: Todos los scripts deben ser ejecutables y cumplir con los requisitos de la corrección automática de Holberton.*
+.*
