@@ -1,0 +1,3 @@
+#!/bin/bash
+# Borra todos los archivos que terminan con el caracter ~ (archivos temporales de emacs)
+rm *~
